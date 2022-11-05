@@ -15,6 +15,6 @@
 </div>
 <br>
 
-#### tecnico em TI e cursando licenciatura em computação e outros cursos voltados para desenvolvimento web 😃
+#### tecnico em TI cursando licenciatura em computação e outros cursos voltados para desenvolvimento web 😃
 
 
