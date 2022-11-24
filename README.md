@@ -1,8 +1,8 @@
 ## Olá! Eu sou o Alef 😎
 
 [![Site](https://img.shields.io/website?label=alef.portifolio.com&style=for-the-badge&url=https://sujeitoprogramador.com)](https://github.com/AlefMatheus)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://github.com/AlefMatheus)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://github.com/AlefMatheus)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/alefmatheuus/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/alef-matheus-garcia-732ab4209/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://github.com/AlefMatheus)
 
 ![Alef GitHub stats](https://github-readme-stats.vercel.app/api?username=AlefMatheus&show_icons=true&theme=tokyonight)
